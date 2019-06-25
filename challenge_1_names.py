@@ -8,4 +8,3 @@ firstName = input("what is your first name?\n")
 surName = input("what is your surname?\n")
 print(firstName, surName)
 print(surName, firstName)
-
