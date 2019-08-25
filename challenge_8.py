@@ -1,5 +1,6 @@
 '''
-Challenge 8 - Days Alive Calculator
+Challenge 8 - Days Alive Calculator:
+
 Here is a cool program that calculates your age in
 days/hours/minutes/seconds.
 '''

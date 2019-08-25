@@ -1,5 +1,6 @@
 '''
 Challenge 7 - Area Calculator:
+
 A program that asks the user for the width and the height
 of a room and calculates the area of the room.
 '''

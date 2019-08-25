@@ -1,5 +1,9 @@
-# Challenge 19 - If
+'''
+Challenge 19 - If Only...
 
+The program asks the user to enter two numbers and compares
+them
+'''
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 

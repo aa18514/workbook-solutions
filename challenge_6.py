@@ -1,5 +1,6 @@
 '''
 Challenge 6:
+
 tells a person how many more calories can he consume in a day to
 maintain a healthy lifestyle
 '''

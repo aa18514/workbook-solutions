@@ -1,4 +1,6 @@
-# Challenge 16 - Formatting how numbers are printed on the screen
+''' 
+Challenge 16 - Formatting how numbers get displayed on the screen
+'''
 
 nOne = 3.123456789
 nTwo = 9.87654321

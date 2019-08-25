@@ -1,4 +1,8 @@
-# Challenge 14 - Modulo
+'''
+Challenge 14 - Modulo
+
+Calculate the remainder when two numbers x and y are divided
+'''
 
 remainder = 7 % 2
 print ("the remainder when 7 is divided by 2 is : " + str(remainder))

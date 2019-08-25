@@ -1,5 +1,6 @@
 '''
 Challenge 6 - Extension
+
 A program that asks students how much they spent they have spent on their
 school lunch and calculates the amount of money thay have remaining.
 '''

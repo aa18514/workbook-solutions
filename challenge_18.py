@@ -1,7 +1,8 @@
 '''
-the following program is a solution to Challenge 18 in
-the programming workbook - Introduction to Programming
-in Python
+Challenge 8 - Magic8Ball
+
+Provide students with an answer to any question that they ask the computer.
+Introduces students to if-else statements!
 '''
 
 import random
@@ -17,7 +18,7 @@ question=input("Ask me for any advice and I'll help you out. Type in your questi
 
 print("shaking.... \n" * 4)
 
-choice = random.randint(1, 3)
+choice = random.randint(1, 3) #chooses a random integer between 1 and 3
 
 if choice == 1:
     answer = answer1
