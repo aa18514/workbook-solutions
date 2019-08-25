@@ -1,4 +1,7 @@
-# Challenge 11 - slicing strings
+'''
+Challenge 11 - slicing strings
+Extracting relevant characters from a string
+'''
 
 quote = "Pakistan came into existence in 1947"
 

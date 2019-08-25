@@ -1,11 +1,11 @@
 '''
-the following program is a solution to Challenge 8 in
-the programming workbook - Introduction to Programming
-in Python
+Challenge 8 - Days Alive Calculator
+Here is a cool program that calculates your age in
+days/hours/minutes/seconds.
 '''
 
-name = input("What is your name?\n")
-age = int(input("What is your age?\n"))
+name = input("What is your name?\n") # ask user for his name
+age = int(input("What is your age?\n")) # ask user for his age
 
 days_alive = 365 * age
 print("you have been alive for: " + days_alive + " days")

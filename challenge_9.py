@@ -1,4 +1,8 @@
-# Challenge 9 - I am an excellent programmer
+'''
+Challenge 9 - I am an excellent programmer
+
+The challenge is about manipulating strings using built-in commands.
+'''
 
 quote = "i am an EXCELLENT programmer"
 print (quote)
